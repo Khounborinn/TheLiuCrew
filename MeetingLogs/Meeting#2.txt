@@ -1,0 +1,26 @@
+3/27/2020
+
+Discussion Topics:
+
+1. Changing the project:
+
+We all agreed to create a website that would allow people to track the progress
+of the Corona Virus. Quick transition to a new project, so we will have to start
+over on code.
+
+
+2. Concerns:
+
+- Concerned on amount of time left to do the project.
+- Do not know how the website will turn out
+
+3. New Roles:
+
+Nolan   - Python Programmer
+Tyler   - Python Programmer + Help Pete
+Pete    - Website designer
+Dominic - Database worker
+
+4. Misc:
+
+Everyone is doing fine during quarantine.
