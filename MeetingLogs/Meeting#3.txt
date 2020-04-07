@@ -1,0 +1,28 @@
+4/6/2020
+
+Discussion Topics:
+
+1.  Project Progress:
+
+    -   Project is now underway. Live demo has been uploaded to Github Repo
+    -   A displayable website can be made through the use of voila
+    -   Looking into Flask to see if that is another way to display data
+    -   Figuring out a way to show better data (heatmaps, certain charts & graphs)
+
+
+2.  Official Roles:
+
+    -   Nolan    (Python Programmer in charge of functionality)
+    -   Peter    (Python Programmer in charge of functionality of heatmaps and graphs)
+    -   Tyler    (Making sure the display on the website is clean and understandable)
+    -   Domninic (Organizing the data to make it easier for configuration)
+
+3.  Concerns:
+
+    -   No one has used Flask before so that will take time to learn.
+    -   Stress of being at home with the current events around us does take our focus
+        away from everything.
+
+4.  Misc:
+
+    - N/A
