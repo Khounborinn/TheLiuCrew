@@ -6,19 +6,15 @@ Brief Description: The program was created in Jupyter Notebook and used Voila to
 
 
 Maintainer: Tyler Zwolenik
-
 Github User: TylerZwolenik
 
 Maintainer: Peter Schumacher
-
 Github User: peterschu
 
 Maintainer: Dominic Benintendi
-
 Github User: DominicBen
 
 Admin: Nolan Khounborin
-
 Github User: Khounborinn
 
 
